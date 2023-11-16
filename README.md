@@ -1,5 +1,5 @@
 
-> Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
+
 
 **Entrega de tarea de microbit**
 
