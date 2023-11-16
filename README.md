@@ -10,7 +10,7 @@
 :point_right:[Classroom](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
 
 
-## ASIGANACIÓN
+## ASIGNACIÓN
 
 :point_right: [Asignación](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485/assignments/2-tarea-de-microbit)
 
