@@ -21,3 +21,10 @@
 
 ## EVIDENCIAS
 
+
+Issue de la alumna a la entrega de la tarea: (https://github.com/ull-mfp-aet-2324-alu0100833485/2-tarea-de-microbit-Joanadt98/issues/1)
+
+Cambios realizadas por la alumna en la tarea: (https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485/assignments/2-tarea-de-microbit)
+
+
+
