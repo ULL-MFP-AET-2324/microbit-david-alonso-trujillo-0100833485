@@ -3,16 +3,16 @@
 
 ## ORGANIZACIÓN
 
-[Organización](https://github.com/ull-mfp-aet-2324-alu0100833485)
+:point_right:[Organización](https://github.com/ull-mfp-aet-2324-alu0100833485)
 
 ## CLASSROOM
 
-[Classroom](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
+:point_right:[Classroom](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
 
 
 ## ASIGANACIÓN
 
-https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485/assignments/2-tarea-de-microbit
+:point_right: [Asignación](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485/assignments/2-tarea-de-microbit)
 
 To edit this repository in MakeCode.
 
