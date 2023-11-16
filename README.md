@@ -3,11 +3,11 @@
 
 ## ORGANIZACIÓN
 
-[Organización] (https://github.com/ull-mfp-aet-2324-alu0100833485)
+[Organización](https://github.com/ull-mfp-aet-2324-alu0100833485)
 
 ## CLASSROOM
 
-[Classroom] (https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
+[Classroom](https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
 
 
 ## ASIGANACIÓN
